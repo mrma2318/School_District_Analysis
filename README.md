@@ -25,7 +25,9 @@ The purpose of this project was to assist Maria, the cheif data scienct for a ci
 
 Table 1. 
 
-![Descriptives of Grade 9](Descriptives_of_Grade_9.png)
+![Descriptives of Grade 9](https://github.com/mrma2318/School_District_Analysis/blob/5bfc805847bb74b994748dc2456dac8f9ae4cc65/Student_Data_Challenge_Starter_Code/Resources/Descriptives_of_Grade_9.png)
+
+
 
 
 
